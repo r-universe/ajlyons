@@ -1,5 +1,17 @@
 [
   {
     "package": "wrkshputils"
+  },
+  {
+    "package": "degday"
+  },
+  {
+    "package": "caladaptr"
+  },
+  {
+    "package": "caladaptr.apps"
+  },
+  {
+    "package": "uasimg"
   }
 ]

@@ -8,3 +8,23 @@
 	url = https://github.com/ucanr-igis/wrkshputils
 	shallow = true
 	registered = true
+[submodule "degday"]
+	path = degday
+	url = https://github.com/ucanr-igis/degday
+	shallow = true
+	registered = true
+[submodule "caladaptr"]
+	path = caladaptr
+	url = https://github.com/ucanr-igis/caladaptr
+	shallow = true
+	registered = true
+[submodule "caladaptr.apps"]
+	path = caladaptr.apps
+	url = https://github.com/ucanr-igis/caladaptr.apps
+	shallow = true
+	registered = true
+[submodule "uasimg"]
+	path = uasimg
+	url = https://github.com/ucanr-igis/uasimg
+	shallow = true
+	registered = true
