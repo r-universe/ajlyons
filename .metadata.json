@@ -3,6 +3,9 @@
     "package": "wrkshputils"
   },
   {
+    "package": "slideutils"
+  },
+  {
     "package": "degday"
   },
   {

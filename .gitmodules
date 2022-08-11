@@ -8,6 +8,11 @@
 	url = https://github.com/ucanr-igis/wrkshputils
 	shallow = true
 	registered = true
+[submodule "slideutils"]
+	path = slideutils
+	url = https://github.com/ucanr-igis/slideutils
+	shallow = true
+	registered = true
 [submodule "degday"]
 	path = degday
 	url = https://github.com/ucanr-igis/degday
