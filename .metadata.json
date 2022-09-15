@@ -6,7 +6,8 @@
     "package": "slideutils"
   },
   {
-    "package": "degday"
+    "package": "degday",
+    "oncran": true
   },
   {
     "package": "caladaptr"
