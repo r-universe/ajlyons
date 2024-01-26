@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ajlyons/universe
+	url = https://github.com/ajlyons/ajlyons.r-universe.dev
 	branch = HEAD
 [submodule "caladaptr"]
 	path = caladaptr
